@@ -3,7 +3,6 @@ import { Col, Container, Row } from 'react-bootstrap'
 import { SectionTitle } from '../../section-title/SectionTitle'
 import profImg from '../../../assets/img/myportfolio.PNG'
 import prankCalc from '../../../assets/img/calculator.PNG'
-import toDoList from "../../../assets/img/todolist.PNG"
 import TicTacToe from "../../../assets/img/TicTac.PNG"
 export const Projects = () => {
     return (
