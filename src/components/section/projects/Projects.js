@@ -41,7 +41,7 @@ export const Projects = () => {
 
                 </Row>
            <Row className="mt-5">
-               <Col  md ="6" className="order-1"><a href="https://prank-calculator.vercel.app/"><img src={prankCalc} width="100%" alt="prank calculator" /></a></Col>
+               <Col  md ="6" className="order-1"><a href="https://calculator-phi-orpin.vercel.app/" target="_blank" rel="noreferrer"><img src={prankCalc} width="100%" alt="prank calculator" /></a></Col>
                <Col md="6" className="order-2"><div class="fs-2 fw-bold">
 								Prank Calculator 🤣 -{" "}
 								<a href="https://github.com/aldamatov/Calculator.git" target="_blank" rel="noreferrer"><i class="fab fa-github-alt"></i></a>{" "}
