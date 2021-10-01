@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+/* Skills Sections */
+#skills {
+  background: var(--main-color);
+  color: white;
+}
+#logo3 {
+  color: white;
+}
+.skills-list i {
+  font-size: 3rem;
+  margin: 2rem;
+}
+#about {
+  background: var(--main-color);
+  color: white;
+  font-family: "Varela Round", sans-serif;
+}
+
+#aboutMe {
+  color: white;
+}
+#projects {
+  font-family: "Varela Round", sans-serif;
+}
+#foot {
+  font-family: "Varela Round", sans-serif;
+}
